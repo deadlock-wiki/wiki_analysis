@@ -26,4 +26,9 @@ page_activity = (
 )
 
 page_activity.to_csv("output/top_topics_last_7_days.csv", index=False)
+
+page_activity.head(10).to_json(
+    "output/trending_topics.json",
+    orient="records"
+)
 print(page_activity.head(10))
