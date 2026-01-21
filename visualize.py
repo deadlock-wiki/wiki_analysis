@@ -1,5 +1,10 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+from pathlib import Path
+
+BASE_DIR = Path(__file__).parent
+OUTPUT_DIR = BASE_DIR / "output"
+OUTPUT_DIR.mkdir(exist_ok=True)
 
 df = pd.read_csv("output/top_topics_last_7_days.csv")
 
@@ -12,5 +17,5 @@ plt.xlabel("Number of Edits")
 plt.title("Top 10 Most Edited Wiki Topics (Last 7 Days)")
 plt.gca().invert_yaxis()
 plt.tight_layout()
-plt.savefig("output/edits_trend.png")
+plt.savefig(OUTPUT_DIR / "edits_trend.png")
 plt.show()

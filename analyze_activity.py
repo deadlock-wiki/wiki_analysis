@@ -1,4 +1,9 @@
 import pandas as pd
+from pathlib import Path
+
+BASE_DIR = Path(__file__).parent
+OUTPUT_DIR = BASE_DIR / "output"
+OUTPUT_DIR.mkdir(exist_ok=True)
 
 df = pd.read_csv("output/revisions_raw.csv")
 df["timestamp"] = pd.to_datetime(df["timestamp"])
@@ -25,10 +30,10 @@ page_activity = (
       .sort_values("edit_count", ascending=False)
 )
 
-page_activity.to_csv("output/top_topics_last_7_days.csv", index=False)
+page_activity.to_csv(OUTPUT_DIR / "top_topics_last_7_days.csv", index=False)
 
 page_activity.head(10).to_json(
-    "output/trending_topics.json",
+    OUTPUT_DIR / "trending_topics.json",
     orient="records"
 )
 print(page_activity.head(10))
