@@ -6,7 +6,7 @@ BASE_DIR = Path(__file__).parent
 OUTPUT_DIR = BASE_DIR / "output"
 OUTPUT_DIR.mkdir(exist_ok=True)
 
-df = pd.read_csv("output/top_topics_last_7_days.csv")
+df = pd.read_csv(OUTPUT_DIR / "top_topics_last_7_days.csv")
 
 # keep only top 10 topics
 df = df.sort_values("edit_count", ascending=False).head(10)

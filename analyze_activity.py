@@ -5,7 +5,7 @@ BASE_DIR = Path(__file__).parent
 OUTPUT_DIR = BASE_DIR / "output"
 OUTPUT_DIR.mkdir(exist_ok=True)
 
-df = pd.read_csv("output/revisions_raw.csv")
+df = pd.read_csv(OUTPUT_DIR / "revisions_raw.csv")
 df["timestamp"] = pd.to_datetime(df["timestamp"])
 
 df["topic"] = df["page"].str.split("/").str[:2].str.join("/")
