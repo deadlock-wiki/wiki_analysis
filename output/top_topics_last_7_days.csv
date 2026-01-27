@@ -1,343 +1,616 @@
 topic,edit_count
-Venator,11
-Rem,9
-Apollo,7
-Updates,7
-Silver,7
-Graves,6
-"Update:January 20, 2026",6
-Pepper,5
-Dashing,4
-Rem/Quotes,4
-Venator/Quotes,4
-Yamato,3
-Pepper/Quotes,3
-Silver/Quotes,3
+Rem,28
+Apollo,24
+Silver,23
+Venator,23
+Graves,19
+Celeste,19
+Street Brawl,13
+Hidden King,11
+Haunting Shot,10
+The Hidden King,10
+Updates,8
+Rem/Quotes,8
+Venator/Quotes,8
+Data:Lang en.json,7
+Graves/Quotes,7
+Mina,7
+Dashing,7
+Shrine,7
+"Update:January 20, 2026",7
+Souls,6
+The Archmother,6
+Yamato/Quotes,6
+Hidden King/Quotes,6
+Pepper,6
+Apollo/Quotes,6
+Universal Tech,5
+Seven,5
+Deadlock,5
+Archmother,5
+Data:Lang tr.json,5
+Celestial Blessing,5
+Data:Lang es.json,5
+Data:Lang ru.json,5
+Infinite Rounds,5
+The Archmother/Quotes,5
+Silver/Quotes,5
+Yamato,4
+Celeste/Quotes,4
+Data:ItemData.json,4
+Runed Gauntlets,4
+Dashing/Dash Jumping,4
+Pepper/Quotes,4
+Patron,4
+Dashing/Strafe Dashing,4
+The Doorman,4
+Heavy Melee,4
+Infernus/Quotes,4
+Data:AbilityCards.json,4
+Haze,4
+Mantling/Mantle Glide,4
+Archmother/Quotes,3
+Ziplines/Zipline Momentum Conservation,3
+Warden,3
+Drifter,3
+Bebop,3
+Ziplines/Zip Dash,3
+Ballistic Enchantment,3
+Abrams,3
+Ballistic Enchantment/Update History,3
+Dashing/Ag2 Dashing,3
+Mystical Piano,3
+Nullification Burst,3
+Patron/Update history,3
+Shadow Strike,3
+Shiv,3
+Sinclair,3
+Denizen,3
+Eternal Gift,3
+Data:Lang zh-hans.json,3
+Trooper,3
+Seraphim Wings,3
+Calico,3
 Soul Urn,3
 The Arroyo's,3
-Apollo/Quotes,3
-Abrams,2
-Data:Dictionary,2
-Data:ItemData.json,2
-Kinetic Dash/Update history,2
-Denizen,2
-Death/Update history,2
-Graves/Quotes,2
-Express Shot,2
-Monster Rounds,2
+Blackmore Academy,3
+Data:Lang ko.json,3
+Data:Dictionary,3
+Music,3
+Ixia,3
+Kelvin,3
+Holliday,3
+Dashing/Instant Air Dash,3
+Dashing/Dash Sliding,3
+Dashing/Short Dash Crouch Cancelling,3
+Data:AbilityData.json,3
+Amber Hand,2
+Yamato/Update history,2
+Abrams/Quotes,2
+Sapphire Flame,2
+Raven,2
 Rem/Sounds,2
-Shiv,2
-Denizen/Update history,2
-The Doorman,2
-Soul Urn/Update history,2
-Souls,2
+"Update:January 22, 2026",2
+Astral Gates,2
+Viscous,2
+Billy,2
+Vyper,2
+Vent,2
+Victor,2
+Vindicta,2
+The Amber Hand,2
+Shopkeeper,2
+Recharging Rush,2
+Cloak of Opportunity,2
 Toxic Bullets,2
-Bebop,2
-Bullet Lifesteal (item),1
-Bullet Resilience,1
-Bullet Resilience/zh-hans,1
-Bullet Resist Shredder,1
-Burst Fire,1
-Calico,1
-Capacitor,1
-Cheat Death,1
-Cheat Death/zh-hans,1
-Close Quarters,1
-Close Quarters/ru,1
-Cold Front,1
-Cold Front/zh-hans,1
-Colossus,1
-Colossus/zh-hans,1
-Compress Cooldown,1
-Compress Cooldown/zh-hans,1
-Counterspell,1
-Counterspell/zh-hans,1
-Crippling Headshot,1
-Crushing Fists,1
-Cultist Sacrifice,1
-Curse,1
-Curse/zh-hans,1
-Data:Lang en.json,1
-Data:NpcData.json,1
-Debuff Reducer,1
-Debuff Remover,1
-Debuff Remover/zh-hans,1
-Decay,1
-Decay/zh-hans,1
-Disarming Hex,1
-Disarming Hex/zh-hans,1
-Divine Barrier,1
-Divine Barrier/zh-hans,1
-Diviner's Kevlar,1
-Diviner's Kevlar/zh-hans,1
-Drifter,1
-Duration Extender,1
-Duration Extender/zh-hans,1
-Dynamo,1
-Echo Shard,1
-Echo Shard/zh-hans,1
-Enchanter's Emblem,1
-Enduring Speed,1
-Enduring Spirit,1
+The Sapphire Flame,2
+Soul Urn/Update history,2
+Sliding,2
+Mo & Krill/Quotes,2
+Mo & Krill,2
+Mirage,2
+Pocket,2
+Paradox,2
+Paige,2
+Data:NpcData.json,2
+Lady Geist,2
+Mystic Conduit,2
+Data:HeroData.json,2
+McGinnis,2
+Monster Rounds,2
+Mechanics,2
+Death/Update history,2
+Maelstrom,2
+Mantling/Glide Wall Jump,2
+Data:GenericData.json,2
+Denizen/Update history,2
+Mantling/Superglide,2
+Dynamo,2
+Lash,2
+Ivy,2
+Infernus,2
+Kinetic Dash/Update history,2
+Grey Talon,2
+Heavy Melee/Heavy Melee Cancel,2
+Electric Slippers,2
+Haze/Quotes,2
+Express Shot,2
+Frostbite Charm,2
+Wraith,2
+Walking/Sprinting,2
+Active Reload,1
+Active Reload/ru,1
+Ag2 Dashing,1
+Alchemical Fire,1
+Witchmail/ru,1
+Witchmail,1
+Weighted Shots/ru,1
+Weighted Shots,1
+Weapon Shielding/zh-hans,1
+Weapon Shielding/ru,1
+Weapon Shielding,1
+Weakening Headshot/ru,1
+Battle Vest,1
+Battle Vest/ru,1
+Bear Pit,1
+Berserker,1
+Berserker/ru,1
+Billy/ru,1
+Blood Tribute,1
+Walker,1
+Walking,1
+Vandal,1
+Veil Walker,1
+Veil Walker/ru,1
+Veil Walker/zh-hans,1
+Vortex Web,1
+Vortex Web/ru,1
+Vortex Web/zh-hans,1
+Fleetfoot,1
+Fleetfoot/ru,1
+Focus Lens,1
 Escalating Exposure,1
+Escalating Exposure/ru,1
 Escalating Exposure/zh-hans,1
 Escalating Resilience,1
+Escalating Resilience/ru,1
+Eternal Gift/Update history,1
 Ethereal Shift,1
+Ethereal Shift/ru,1
 Ethereal Shift/zh-hans,1
+Express Shot/ru,1
 Extended Magazine,1
 Extra Charge,1
-Extra Health,1
+Extra Charge/ru,1
+Generic Male/Quotes,1
+Glass Cannon,1
+Glass Cannon/ru,1
+Extra Health/ru,1
 Extra Regen,1
+Extra Regen/ru,1
 Extra Slots,1
 Extra Spirit,1
+Extra Spirit/ru,1
 Extra Stamina,1
+Extra Stamina/ru,1
+Fairfax Industries,1
 Familiar,1
 Fathom,1
 Fathom/zh-hans,1
 Fencer,1
-Fleetfoot,1
-Fleetfoot/ru,1
-Focus Lens,1
+Guardian Ward/ru,1
+Haunting Shot/Update history,1
+Headhunter,1
+Headhunter/ru,1
+Headshot Booster,1
+Healbane,1
+Focus Lens/ru,1
 Fortitude,1
+Fortitude/ru,1
 Fortitude/zh-hans,1
 Frenzy,1
+Frenzy/ru,1
+Friends of Humanity,1
 Fury Trance,1
+Fury Trance/ru,1
 Fury Trance/zh-hans,1
-Generic Male/Quotes,1
-Glass Cannon,1
+Healing Nova,1
+Healing Nova/ru,1
+Healing Nova/zh-hans,1
+Healing Rite,1
+Healing Rite/ru,1
+Healing Tempo,1
+Healing Tempo/ru,1
+Healing Tempo/zh-hans,1
+Heavy Melee Cancel,1
+Hero Labs,1
 Greater Expansion,1
+Greater Expansion/ru,1
 Greater Expansion/zh-hans,1
-Grey Talon,1
 Grey Talon/ru,1
 Guardian,1
 Guardian Ward,1
-Haze,1
-Headhunter,1
-Headshot Booster,1
-Healbane,1
-Healing Booster,1
+Healing Booster/ru,1
+Duration Extender/ru,1
+Duration Extender/zh-hans,1
+Echo Shard,1
+Echo Shard/ru,1
+Echo Shard/zh-hans,1
+Electric Slippers/Update history,1
+Enchanter's Emblem,1
+Enchanter's Emblem/ru,1
+Enduring Speed,1
+Enduring Speed/ru,1
+Enduring Spirit,1
+Debuff Remover,1
+Debuff Remover/ru,1
+Debuff Remover/zh-hans,1
 Healing Booster/zh-hans,1
-Healing Nova,1
-Healing Nova/zh-hans,1
-Healing Rite,1
-Healing Tempo,1
-Healing Tempo/zh-hans,1
-Hero Labs,1
+Intensifying Magazine/ru,1
+Heroes,1
 Heroic Aura,1
+Heroic Aura/ru,1
+Hidden King/ru,1
 Hideout,1
 High-Velocity Rounds,1
 High-Velocity Rounds/ru,1
-Holliday,1
+Holliday/Quotes,1
 Holliday/ru,1
 Hollow Point,1
+Hollow Point/ru,1
 Hunter's Aura,1
-Improved Spirit,1
-Improved Spirit/zh-hans,1
-Infernus,1
-Infuser,1
-Infuser/zh-hans,1
-Inhibitor,1
-Inhibitor/zh-hans,1
-Intensifying Magazine,1
-Intensifying Magazine/ru,1
-Ivy,1
-Ivy/ru,1
-Juggernaut,1
-Juggernaut/zh-hans,1
-Kelvin,1
-Kelvin/ru,1
+Hunter's Aura/ru,1
+Healbane/ru,1
+Healing Booster,1
 Kinetic Dash,1
 Kinetic Dash/ru,1
 Knockdown,1
-Knockdown/zh-hans,1
-Lady Geist,1
-Lady Geist/ru,1
-Lash,1
-Leech,1
-Leech/ru,1
+Knockdown/ru,1
+Improved Spirit,1
+Improved Spirit/ru,1
+Improved Spirit/zh-hans,1
+Infinite Rounds/Update history,1
+Infuser,1
+Infuser/ru,1
+Infuser/zh-hans,1
+Inhibitor,1
+Inhibitor/ru,1
+Inhibitor/zh-hans,1
+Instant Air Dash,1
+Intensifying Magazine,1
 Leech/zh-hans,1
 Lifestrike,1
+Lifestrike/ru,1
 Lifestrike/zh-hans,1
 Lightning Scroll,1
+Lightning Scroll/ru,1
 Lightning Scroll/zh-hans,1
 Long Range,1
+Ivy/ru,1
+Ixian,1
+Juggernaut,1
+Juggernaut/ru,1
+Juggernaut/zh-hans,1
+Jumping,1
+Kelvin/Quotes,1
+Kelvin/ru,1
+Lady Geist/Quotes,1
+Decay,1
+Decay/ru,1
+Decay/zh-hans,1
+Disarming Hex,1
+Disarming Hex/ru,1
+Disarming Hex/zh-hans,1
+Divine Barrier,1
+Divine Barrier/ru,1
+Divine Barrier/zh-hans,1
+Diviner's Kevlar,1
+Diviner's Kevlar/ru,1
+Lady Geist/ru,1
+Lash/Quotes,1
+Leech,1
+Leech/ru,1
+Metal Skin/zh-hans,1
+Mid-Boss,1
+Minor characters,1
 Long Range/ru,1
+Lore,1
 Lucky Shot,1
+Lucky Shot/ru,1
 Magic Carpet,1
+Magic Carpet/ru,1
+Magical creatures,1
 Majestic Leap,1
+Majestic Leap/ru,1
 Majestic Leap/zh-hans,1
-McGinnis,1
+Mantle Glide,1
+Mantling,1
+Knockdown/zh-hans,1
+Mystic Reverb/ru,1
 McGinnis/ru,1
+Debuff Reducer,1
+Debuff Reducer/ru,1
+Cultist Sacrifice/ru,1
+Curse,1
+Curse/ru,1
 Melee Charge,1
 Melee Charge/ru,1
 Melee Lifesteal,1
+Melee Lifesteal/ru,1
 Mercurial Magnum,1
+Mercurial Magnum/ru,1
 Mercurial Magnum/zh-hans,1
 Metal Skin,1
-Metal Skin/zh-hans,1
-Mid-Boss,1
-Mina,1
-Mirage,1
-Mo & Krill,1
+Metal Skin/ru,1
+Dash Jumping,1
+Dash Sliding,1
+Dashing/Dash Punch,1
+Dashing/Parry Dash,1
+Cold Front/zh-hans,1
+Colossus,1
+Colossus/ru,1
 Mo & Krill/ru,1
-Vortex Web/zh-hans,1
 Monster Rounds/ru,1
 Mystic Burst,1
+Mystic Burst/ru,1
 Mystic Expansion,1
+Mystic Expansion/ru,1
 Mystic Regeneration,1
+Mystic Regeneration/ru,1
 Mystic Reverb,1
+Point Blank,1
 Mystic Shot,1
 Mystic Shot/ru,1
 Mystic Slow,1
+Mystic Slow/ru,1
 Mystic Slow/zh-hans,1
 Mystic Vulnerability,1
+Mystic Vulnerability/ru,1
 Mystic Vulnerability/zh-hans,1
 Necromancer,1
+Nullification Burst/Update history,1
+Occult Security and Investigation Commission,1
+"Old Gods, New Blood",1
+Omnicharge Signet,1
 Opening Rounds,1
-Opening Rounds/ru,1
-Paige,1
-Paradox,1
-Paradox/ru,1
-Vortex Web,1
-Abrams/Quotes,1
-Phantom Strike,1
-Phantom Strike/zh-hans,1
-Plated Armor,1
-Pocket,1
-Point Blank,1
-Powerups,1
-Quicksilver Reload,1
-Quicksilver Reload/zh-hans,1
-Quinn,1
+Curse/zh-hans,1
 Radiant Regeneration,1
+Radiant Regeneration/ru,1
 Radiant Regeneration/zh-hans,1
 Rapid Recharge,1
+Rapid Recharge/ru,1
 Rapid Recharge/zh-hans,1
 Rapid Rounds,1
 Rapid Rounds/ru,1
-Raven,1
-Reactive Barrier,1
-Reactive Barrier/zh-hans,1
+Opening Rounds/ru,1
+Paige/zh-hans,1
+Paradox/ru,1
+Phantom Strike,1
+Phantom Strike/ru,1
+Phantom Strike/zh-hans,1
+Plated Armor,1
+Plated Armor/ru,1
 Rebuttal,1
+Rebuttal/ru,1
+Recharging Rush/Update history,1
 Refresher,1
+Refresher/ru,1
 Rejuvenator,1
-Unstoppable/zh-hans,1
-"Update:December 30, 2025",1
-"Update:January 20, 2025",1
 Rescue Beam,1
+Rescue Beam/ru,1
 Restorative Locket,1
+Point Blank/ru,1
+Powerups,1
+Prism Blast,1
+Quicksilver Reload,1
+Quicksilver Reload/ru,1
+Quicksilver Reload/zh-hans,1
+Quinn,1
+Reactive Barrier/zh-hans,1
+Colossus/zh-hans,1
+Compress Cooldown,1
+Compress Cooldown/ru,1
+Compress Cooldown/zh-hans,1
+Counterspell,1
+Counterspell/ru,1
+Counterspell/zh-hans,1
+Crippling Headshot,1
+Crippling Headshot/ru,1
+Crouching,1
+Crushing Fists,1
+Crushing Fists/ru,1
+Cultist Sacrifice,1
+Capacitor,1
+Capacitor/ru,1
+Restorative Locket/ru,1
 Restorative Locket/zh-hans,1
 Restorative Shot,1
 Restorative Shot/ru,1
 Return Fire,1
+Return Fire/ru,1
 Return Fire/zh-hans,1
 Ricochet,1
+Ricochet/ru,1
+Runed Gauntlets/Update history,1
 Rusted Barrel,1
+Rusted Barrel/ru,1
 Rusted Barrel/zh-hans,1
 Scourge,1
-Scourge/zh-hans,1
-Seasonal events,1
-Seven,1
-Seven/ru,1
-Shadow Weave,1
-Sharpshooter,1
-Vampiric Burst,1
-Shopkeeper,1
-Silence Wave,1
-Silence Wave/zh-hans,1
-Silencer,1
-Vampiric Burst/zh-hans,1
-Vandal,1
-Sinclair,1
-Sinclair/ru,1
+Reactive Barrier,1
+Reactive Barrier/ru,1
 Sinner's Sacrifice,1
 Siphon Bullets,1
+Siphon Bullets/ru,1
 Siphon Bullets/zh-hans,1
-Skyrunner,1
-Slowing Bullets,1
-Slowing Hex,1
-Veil Walker,1
-Soul Rebirth,1
-Veil Walker/zh-hans,1
-Victor,1
-Vindicta,1
-Spellbreaker,1
-Spellslinger,1
-Spirit Armor,1
-Spirit Burn,1
-Spirit Burn/zh-hans,1
-Spirit Lifesteal (item),1
-Spirit Lifesteal (item)/zh-hans,1
-Spirit Rend,1
-Spirit Resilience,1
-Spirit Resilience/zh-hans,1
-Spirit Sap,1
-Spirit Sap/zh-hans,1
-Spirit Shielding,1
-Spirit Shielding/zh-hans,1
-Spirit Shredder Bullets,1
-Spirit Snatch,1
-Spirit Snatch/zh-hans,1
-Spirit Strike,1
-Spirit Strike/zh-hans,1
-Spiritual Overflow,1
-Split Shot,1
-Sprint Boots,1
-Stamina Mastery,1
-Stamina Mastery/zh-hans,1
-Superior Cooldown,1
-Superior Cooldown/zh-hans,1
-Superior Duration,1
-Superior Duration/zh-hans,1
-Suppressor,1
-Suppressor/zh-hans,1
-Surge of Power,1
-Swan,1
-Swift Striker,1
-Tankbuster,1
-Tankbuster/zh-hans,1
-Tesla Bullets,1
-Viscous,1
-Slowing Hex/zh-hans,1
-The Doorman/Update history,1
-Titanic Magazine,1
-Torment Pulse,1
-Torment Pulse/zh-hans,1
-Active Reload/ru,1
-Trapper,1
-Trooper,1
-Trophy Collector,1
-Trophy Collector/zh-hans,1
-Unstoppable,1
-Active Reload,1
-Vyper,1
-Walker,1
-Warden,1
-Warp Stone,1
-Weakening Headshot,1
-Weapon Shielding,1
-Weapon Shielding/zh-hans,1
-Weighted Shots,1
-Witchmail,1
-Witchmail/zh-hans,1
-Wraith,1
-Wraith/Quotes,1
-Wraith/ru,1
-Wrecker,1
-Ammo Scavenger,1
-Alchemical Fire,1
-Boundless Spirit/zh-hans,1
-Arcane Surge,1
-Arcane Surge/zh-hans,1
-Arctic Blast,1
-Arctic Blast/zh-hans,1
-Armor Piercing Rounds,1
-Backstabber,1
-Backstabber/ru,1
-Battle Vest,1
-Bullet Armor,1
-Berserker,1
-Billy,1
-Blood Tribute,1
+Six New Heroes,1
+Scourge/ru,1
+Scourge/zh-hans,1
+Seasonal events,1
+Seraphim Wings/Update history,1
+Seven/Quotes,1
+Seven/ru,1
+Shadow Strike/Update history,1
+Shadow Weave,1
+Shadow Weave/ru,1
+Sharpshooter,1
+Sharpshooter/ru,1
+Cheat Death,1
+Cheat Death/ru,1
+Cheat Death/zh-hans,1
+Cloak of Opportunity/Update history,1
+Close Quarters,1
+Close Quarters/ru,1
+Cold Front,1
+Cold Front/ru,1
+Blood Tribute/ru,1
 Boho,1
 Boundless Spirit,1
+Silence Wave/ru,1
+Silence Wave/zh-hans,1
+Silencer,1
+Silencer/ru,1
+Sinclair/ru,1
+Spirit Shielding,1
+Skyrunner,1
+Slowing Bullets,1
+Slowing Bullets/ru,1
+Slowing Hex,1
+Slowing Hex/ru,1
+Slowing Hex/zh-hans,1
+Snowball,1
+Soul Rebirth,1
+Spellbreaker,1
+Spellbreaker/ru,1
+Spellslinger,1
+Spellslinger/ru,1
+Shrink Ray,1
+Silence Wave,1
+Celestial Blessing/Update history,1
+Sprint Boots/ru,1
+Spirit Armor,1
+Spirit Burn,1
+Spirit Burn/ru,1
+Spirit Burn/zh-hans,1
+Spirit Lifesteal (item),1
+Spirit Lifesteal (item)/ru,1
+Spirit Lifesteal (item)/zh-hans,1
+Spirit Rend,1
+Spirit Rend/ru,1
+Spirit Resilience,1
+Spirit Resilience/ru,1
+Spirit Resilience/zh-hans,1
+Spirit Sap,1
+Spirit Sap/ru,1
+Spirit Sap/zh-hans,1
+Suppressor/zh-hans,1
+Spirit Shielding/ru,1
+Spirit Shielding/zh-hans,1
+Spirit Shredder Bullets,1
+Spirit Shredder Bullets/ru,1
+Spirit Snatch,1
+Spirit Snatch/ru,1
+Spirit Snatch/zh-hans,1
+Spirit Strike,1
+Spirit Strike/ru,1
+Spirit Strike/zh-hans,1
+Spiritual Overflow,1
+Spiritual Overflow/ru,1
+Split Shot,1
+Split Shot/ru,1
+Sprint Boots,1
+Tesla Bullets/ru,1
+The Baxter Society,1
+Sprinting,1
+Stamina Mastery,1
+Stamina Mastery/ru,1
+Stamina Mastery/zh-hans,1
+Strafe Dashing,1
+Superglide,1
+Superior Cooldown,1
+Superior Cooldown/ru,1
+Superior Cooldown/zh-hans,1
+Superior Duration,1
+Superior Duration/ru,1
+Superior Duration/zh-hans,1
+Suppressor,1
+Suppressor/ru,1
+Titanic Magazine/ru,1
+Torment Pulse,1
+Torment Pulse/ru,1
+Torment Pulse/zh-hans,1
+Toxic Bullets/ru,1
+Transcendent Cooldown,1
+Surge of Power,1
+Surge of Power/ru,1
+Swan,1
+Swift Striker,1
+Swift Striker/ru,1
+Tankbuster,1
+Tankbuster/ru,1
+Tankbuster/zh-hans,1
+Teams,1
+Tesla Bullets,1
+Backstabber/ru,1
+Trophy Collector/ru,1
+Trophy Collector/zh-hans,1
+Unstable Concoction,1
+Unstoppable,1
+Unstoppable/ru,1
+Unstoppable/zh-hans,1
+"Update:April 17, 2025",1
+"Update:December 30, 2025",1
+"Update:January 20, 2025",1
+The Cursed Apple,1
+The Deep,1
+The Doorman/Quotes,1
+The Doorman/Update history,1
+The Mendoza Syndicate,1
+Titanic Magazine,1
+Trapper,1
+Trophy Collector,1
+Boundless Spirit/ru,1
+Boundless Spirit/zh-hans,1
+Bullet Armor,1
+Bullet Armor/ru,1
+Bullet Lifesteal (item),1
+Bullet Lifesteal (item)/ru,1
+Bullet Resilience,1
+Bullet Resilience/ru,1
+Bullet Resilience/zh-hans,1
+Bullet Resist Shredder,1
+Bullet Resist Shredder/ru,1
+Burst Fire,1
+Burst Fire/ru,1
+Backstabber,1
+Weakening Headshot,1
+Amber Hand/ru,1
+Ammo Scavenger,1
+Wraith/ru,1
+Wrecker,1
+ZMC,1
+Zip Dash,1
+Zipline Momentum Cancel,1
+Zipline Momentum Conservation,1
+Ziplines/Small Zip Jump,1
+Ziplines/Zip Launch,1
+Alchemical Fire/ru,1
+Vampiric Burst,1
+Vampiric Burst/ru,1
+Vampiric Burst/zh-hans,1
+Baroness Hotel,1
+Extra Health,1
+Diviner's Kevlar/zh-hans,1
+Duration Extender,1
+Ammo Scavenger/ru,1
+Arcane Surge,1
+Arcane Surge/ru,1
+Arcane Surge/zh-hans,1
+Arctic Blast,1
+Arctic Blast/ru,1
+Arctic Blast/zh-hans,1
+Armor Piercing Rounds,1
+Armor Piercing Rounds/ru,1
+Witchmail/zh-hans,1
+Wraith/Quotes,1
+Warp Stone,1
+Warp Stone/ru,1
